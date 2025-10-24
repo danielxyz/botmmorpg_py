@@ -1,0 +1,37 @@
+2025-10-25 01:12:40 | INFO | ============================================================
+2025-10-25 01:12:40 | INFO | Game Bot Auto Pilot Started
+2025-10-25 01:12:40 | INFO | Python 3.14 | Rohan 2 & LordNine
+2025-10-25 01:12:40 | INFO | ============================================================
+2025-10-25 01:13:32 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 3, column 13
+2025-10-25 01:13:37 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 3, column 13
+2025-10-25 01:13:37 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 3, column 13
+2025-10-25 01:13:37 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 3, column 13
+2025-10-25 01:13:37 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 3, column 13
+2025-10-25 01:25:21 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:25:22 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:25:22 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:25:22 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:25:22 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:25:25 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:25:25 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:27:01 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:27:02 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:27:02 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:27:02 | ERROR | Failed to start bot: mapping values are not allowed here
+  in "config/config.yaml", line 2, column 4
+2025-10-25 01:28:54 | INFO | Bot shutdown complete

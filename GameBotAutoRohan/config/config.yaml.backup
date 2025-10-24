@@ -1,20 +1,23 @@
-# Game Bot Configuration
+﻿# Game Bot Configuration
 bot:
   name: "GameBot AutoRohan"
   version: "1.0.0"
   debug_mode: false
   log_level: "INFO"
 
+# Window settings
 window:
   title: "Rohan"
   capture_mode: "window"
   focus_on_start: true
 
+# Screen detection settings
 screen:
   resolution: [1920, 1080]
   capture_fps: 30
   template_match_threshold: 0.8
 
+# Player action settings
 player:
   attack_key: "1"
   skill_keys: ["2", "3", "4", "5"]
@@ -22,6 +25,7 @@ player:
   auto_pickup: true
   pickup_radius: 100
 
+# Bot behavior
 behavior:
   auto_attack: true
   auto_skill: true
@@ -29,12 +33,14 @@ behavior:
   potion_hp_threshold: 50
   rest_after_kill: 1.0
 
+# Hotkeys
 hotkeys:
   start: "F9"
   stop: "F10"
   pause: "F11"
   emergency_stop: "F12"
 
+# Safety settings
 safety:
   max_runtime_minutes: 180
   screenshot_on_error: true
