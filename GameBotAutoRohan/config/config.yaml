@@ -1,0 +1,42 @@
+﻿# Game Bot Configuration for Rohan 2 & LordNine
+
+bot_settings:
+  game: "rohan2"  # or "lordnine"
+  auto_combat: true
+  auto_heal: true
+  auto_loot: true
+  auto_skill: true
+  
+hotkeys:
+  start_bot: "F9"
+  stop_bot: "F10"
+  emergency_stop: "F12"
+  
+combat:
+  attack_key: "1"
+  skill_1: "2"
+  skill_2: "3"
+  skill_3: "4"
+  skill_4: "5"
+  skill_rotation_delay: 0.5
+  
+healing:
+  hp_potion_key: "F1"
+  mp_potion_key: "F2"
+  hp_threshold: 50  # Percentage
+  mp_threshold: 30  # Percentage
+  
+looting:
+  loot_key: "z"
+  loot_delay: 0.3
+  loot_range: 100  # pixels
+  
+detection:
+  monster_color: [255, 0, 0]  # RGB color for monster detection
+  hp_bar_position: [50, 50, 150, 70]  # x1, y1, x2, y2
+  mp_bar_position: [50, 80, 150, 100]
+  
+safety:
+  idle_timeout: 300  # seconds
+  random_movement: true
+  anti_detection: true
